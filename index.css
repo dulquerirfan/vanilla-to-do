@@ -1,0 +1,48 @@
+.parent{
+    border:solid black 1px;
+    margin:0px auto;
+    display:block;
+    height:100vh;
+    width:50vw;
+    background-color:rgb(230, 221, 221);
+}
+#input{
+    text-align :center;
+}
+#input > #userinput
+{
+    width:20vw;
+}
+hr{
+    position:relative;
+    top:20px;
+}
+ul{
+    list-style-type:none;
+    width:44vw;
+    height:79vh;
+    
+}
+body{
+    margin:none;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(1,40,77,1) 0%, rgba(1,59,97,1) 0%, rgba(0,212,255,1) 100%);
+
+}
+.parentlist{
+    border:solid black 2px;
+}
+.header{
+    text-align:center;
+
+}
+ul >li{
+     font-size:20px;
+     margin:5vh; 
+}
+label{
+    margin-left:50px;
+}
+#time {
+    margin:15px 50px;
+}
